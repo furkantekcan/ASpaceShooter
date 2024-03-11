@@ -23,6 +23,7 @@ public class Pistol : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D col)
     {
+        Debug.Log("PlayerTag");
         if (col.gameObject.tag == "PlayerTag")
         {
             pickupAllowed = true;
