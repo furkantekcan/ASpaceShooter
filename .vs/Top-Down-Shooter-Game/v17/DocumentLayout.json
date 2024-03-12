@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|c:\\users\\computer\\documents\\unityprojects\\top-down-shooter-game\\assets\\scripts\\bossasterisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossasterisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|c:\\users\\computer\\documents\\unityprojects\\top-down-shooter-game\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|c:\\users\\computer\\documents\\unityprojects\\top-down-shooter-game\\assets\\scripts\\backgroundgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BossAsterisk.cs",
+              "DocumentMoniker": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\Assets\\Scripts\\BossAsterisk.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossAsterisk.cs",
+              "ToolTip": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\Assets\\Scripts\\BossAsterisk.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossAsterisk.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:12:14.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyMovement.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:06:47.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BackgroundGeneration.cs",
               "DocumentMoniker": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\Assets\\Scripts\\BackgroundGeneration.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundGeneration.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Pistol.cs",
               "DocumentMoniker": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\Assets\\Scripts\\Weapons\\Pistol.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Pistol.cs",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlayerMovoment.cs",
               "DocumentMoniker": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\Assets\\Scripts\\PlayerMovoment.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovoment.cs",

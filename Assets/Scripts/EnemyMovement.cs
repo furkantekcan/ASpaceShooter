@@ -9,6 +9,8 @@ public class EnemyMovement : MonoBehaviour
     //public float moveSpeed = EnemyStats.moveSpeed;
     private Vector2 movement;
     // Start is called before the first frame update
+    [SerializeField] private Transform comet;
+    [SerializeField] private float cometRotationSpeed = 90.0f;
     void Start()
     {
         rb = this.GetComponent<Rigidbody2D>();
@@ -36,10 +38,19 @@ public class EnemyMovement : MonoBehaviour
     private void FixedUpdate()
     {
         moveCharacter(movement);
+        if (comet != null)
+        {
+            RotateComet();
+        }
     }
 
     void moveCharacter(Vector2 playerDirection)
     {
         rb.MovePosition((Vector2)transform.position + (playerDirection * EnemyStats.moveSpeed * Time.deltaTime));
+    }
+
+    void RotateComet()
+    {
+        comet.transform.Rotate(Vector3.right * cometRotationSpeed * Time.deltaTime);
     }
 }
