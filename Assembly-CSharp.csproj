@@ -63,11 +63,13 @@
     <Compile Include="Assets\Scripts\PlayerDeath.cs" />
     <Compile Include="Assets\Scripts\PlayerFollow.cs" />
     <Compile Include="Assets\Scripts\AddRoom.cs" />
+    <Compile Include="Assets\ForceShield\Script\ShieldCollision.cs" />
     <Compile Include="Assets\Scripts\EnemyScript.cs" />
     <Compile Include="Assets\Scripts\PlayerMovoment.cs" />
     <Compile Include="Assets\Scripts\HealthBar.cs" />
     <Compile Include="Assets\Scripts\HighscoreManager.cs" />
     <Compile Include="Assets\Scripts\ShieldPowerup.cs" />
+    <Compile Include="Assets\ForceShield\Script\UserControl.cs" />
     <Compile Include="Assets\Scripts\Weapons\MachineGun.cs" />
     <Compile Include="Assets\Scripts\SpeedPowerup.cs" />
     <Compile Include="Assets\Scripts\BossStar.cs" />
@@ -78,6 +80,7 @@
     <Compile Include="Assets\Scripts\BulletDestroy.cs" />
     <Compile Include="Assets\Scripts\RoomTemplates.cs" />
     <Compile Include="Assets\Scripts\RoomSpawner.cs" />
+    <Compile Include="Assets\ForceShield\Script\LaserBullet.cs" />
     <Compile Include="Assets\Scripts\Trigger2.cs" />
     <Compile Include="Assets\Scripts\Weapons\MachineGun2.cs" />
     <Compile Include="Assets\Scripts\Weapons\Pistol.cs" />
@@ -130,6 +133,7 @@
     <None Include="Assets\SpriteShaders\CGIncludes\Noise\Noise2d.cginc" />
     <None Include="Assets\SpriteShaders\CGIncludes\SpriteLighting.cginc" />
     <None Include="Assets\SpriteShaders\CameraDepthTexture.shader" />
+    <None Include="Assets\ForceShield\Shader\ForceShield.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\SpriteShaders\SpritesPixelLitDissolve.shader" />
     <None Include="Assets\SpriteShaders\CameraDepthNormalsTexture.shader" />

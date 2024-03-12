@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|c:\\users\\computer\\documents\\unityprojects\\top-down-shooter-game\\assets\\scripts\\backgroundgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\assets\\scripts\\playermovoment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovoment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|c:\\users\\computer\\documents\\unityprojects\\top-down-shooter-game\\assets\\scripts\\weapons\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\assets\\scripts\\weapons\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91BDEB5D-A14B-231C-BC96-C30BFAF67256}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "BackgroundGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\Assets\\Scripts\\BackgroundGeneration.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundGeneration.cs",
+              "ToolTip": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\Assets\\Scripts\\BackgroundGeneration.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundGeneration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:53:56.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Pistol.cs",
               "DocumentMoniker": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\Assets\\Scripts\\Weapons\\Pistol.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Pistol.cs",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\Pistol.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAiwBIAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T20:57:09.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T20:57:09.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlayerMovoment.cs",
               "DocumentMoniker": "C:\\Users\\computer\\Documents\\UnityProjects\\Top-Down-Shooter-Game\\Assets\\Scripts\\PlayerMovoment.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovoment.cs",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovoment.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwDQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T09:18:03.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T09:18:03.797Z"
             }
           ]
         }
