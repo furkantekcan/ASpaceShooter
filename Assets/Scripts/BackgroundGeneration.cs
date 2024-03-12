@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class BackgroundGeneration : MonoBehaviour
 {
-
     public GameObject cube;
+    public GameObject[] spaceObjectArray;
     int distance=4;
     float x, y, z;
     // Start is called before the first frame update
@@ -20,9 +20,9 @@ public class BackgroundGeneration : MonoBehaviour
             for(int j=0;j<100;j++)
             {
                 //Instantiate(cube, new Vector3(Random.Range(x+distance-1, x+distance+1), y, z), Quaternion.identity);
-                Instantiate(cube, new Vector3(Random.Range(x+distance-1, x+distance+1), Random.Range(y-1, y+1), Random.Range(z-1, z+1)), Quaternion.identity);
-                Instantiate(cube, new Vector3(Random.Range(x+distance-1, x+distance+1), Random.Range(y-1, y+1), Random.Range(z+2, z+4)), Quaternion.identity);
-                Instantiate(cube, new Vector3(Random.Range(x+distance-1, x+distance+1), Random.Range(y-1, y+1), Random.Range(z+5, z+7)), Quaternion.identity);
+                Instantiate(spaceObjectArray[Random.Range(0, spaceObjectArray.Length)], new Vector3(Random.Range(x+distance-1, x+distance+1), Random.Range(y-1, y+1), Random.Range(z-1, z+1)), Quaternion.identity);
+                Instantiate(spaceObjectArray[Random.Range(0, spaceObjectArray.Length)], new Vector3(Random.Range(x+distance-1, x+distance+1), Random.Range(y-1, y+1), Random.Range(z+2, z+4)), Quaternion.identity);
+                Instantiate(spaceObjectArray[Random.Range(0, spaceObjectArray.Length)], new Vector3(Random.Range(x+distance-1, x+distance+1), Random.Range(y-1, y+1), Random.Range(z+5, z+7)), Quaternion.identity);
 
                 
                 x+=distance;
