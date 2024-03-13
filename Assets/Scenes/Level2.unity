@@ -347,7 +347,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cube: {fileID: 613911353}
-  spaceObjectArray: []
+  spaceObjectArray:
+  - {fileID: 1198336702405888293, guid: 2c99636c3f212354a810a23b768d02c7, type: 3}
+  - {fileID: 1544438185659633566, guid: a98b561ef5e41c84aae442a8a28921da, type: 3}
+  - {fileID: 1114717846508812889, guid: 7710e502010e63e4cad6e02a554a0e52, type: 3}
+  - {fileID: 7126240070632842375, guid: 0dafea473b6dc5548ab36d1aabc8725b, type: 3}
 --- !u!20 &99184124
 Camera:
   m_ObjectHideFlags: 0
